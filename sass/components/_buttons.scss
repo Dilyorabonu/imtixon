@@ -1,0 +1,37 @@
+.info__button{
+    width: 170px;
+    height: 56px;
+    border: none;
+    background: #F9F9F9;
+    padding: 16px 32px 16px 32px;
+    gap: 10px;
+    font-family: 'Satoshi';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    cursor: pointer;
+    color: #2A254B;
+}
+
+.info__button:hover{
+    border: #5B5676 1px solid;
+}
+
+.left__button{
+    width: 170px;
+    height:56px;
+    padding: 16px 32px 16px 32px;
+    background: #F9F9F926;
+    color: #fff;
+    border: none;
+    font-family: 'Satoshi';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    cursor: pointer;
+    margin-top: 205px;
+}
+
+.left__button:hover{
+    border: #FFF 1px solid;
+}
